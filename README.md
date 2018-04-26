@@ -9,7 +9,7 @@ The OWL pedal from Rebel Technology is a guitar stomp box with a difference - yo
 
 The OWL pedal has stereo input and output jacks, as well as another quarter inch jack for an expression pedal, and this can be used to control many of the patches. There is also a small push-button on the top of the pedal that can be used to change patches, or as an extra input for things like tap tempo (particularly useful for sequencer patches, or for setting delay time). So far, pretty near a perfect solution for anyone who wants a programmable pedal.
 
-![](/images/01-before-rot.jpg)
+![](/images/OWL-pedal-green-light-small-300.png)
 
 But there was a minor niggle for me - that illuminated push-button on the top, right in the middle of the 'eyes' of the OWL - normally bright green, as shown in the photo above. Now it works very well, and is really useful for functions like tap tempo. In fact, it is so useful that I wanted to use it a lot and program it into my own patches (written in Gen, but that's another story). But it isn't really suited to live stage use because it is a small button on top of the pedal, and that would mean stooping down low and fiddling about down on the floor...
 
