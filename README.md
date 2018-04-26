@@ -14,7 +14,9 @@ The OWL pedal has stereo input and output jacks, as well as another quarter inch
 But there was a minor niggle for me - that illuminated push-button on the top, right in the middle of the 'eyes' of the OWL - normally bright green, as shown in the photo above. Now it works very well, and is really useful for functions like tap tempo. In fact, it is so useful that I wanted to use it a lot and program it into my own patches (written in Gen, but that's another story). But it isn't really suited to live stage use because it is a small button on top of the pedal, and that would mean stooping down low and fiddling about down on the floor...
 
 Actually, I can't complain, because the OWL pedal is published as Open Source Hardware under the GNU GPL, and the General Public Licence means that you are guaranteed to be able to share and modify the design, as long as you publish your modifications under the same licence. It's kind of the opposite of copyright, and so often gets called 'copyleft'. So if you go to the Rebel Technology web-site and so some searching, you will find the circuit diagrams, a bill of materials, PCB layouts and more - just about everything you might need to know about the design. So instead of complaining about the lack of a footswitch input, I added one!
-Here's what I did.
+
+*Here's what I did.*
+
 The circuit diagram shows that the footswitch just pulls one of the micro controller input pins low when you press it, so all I needed to do was convert a footswitch so that it would do the same. Now there are two different types of footswitch commonly available: one type is a 'Normally Closed' switch, and is found in Roland footswitches, for example; the other type is a 'Normally Open' switch, and this is typically found in (for example) Yamaha footswitches. Now I happened to have a spare Normally Closed (NC) footswitch, so I build my circuit for this type.
 
 Just connecting my NC footswitch across the existing push-button wouldn't work, because that switch  is Normally Open (NO). So I needed a simple invert circuit, and you can make this using a single transistor. Looking inside the OWL pedal, there's a space that looks like it was made for adding an extra jack socket, and there is room for a tiny circuit board as well, so a single transistor circuit sounded ideal. Hence the circuit looks like this:
@@ -25,8 +27,7 @@ The footswitch is that lonely switch on the left hand side, and it is open at th
 
 So here's the gap and a spare jack socket:
 
-
-
+![](/images/01-before-rot.jpg)
 
 Let's open up the OWL pedal:
 
