@@ -1,7 +1,7 @@
 # OWLfoot_mr.github.io
 ***Adding a footswitch input to the OWL Pedal***
 
-Ths project is a '*technology enabler*': a piece of hardware that is then used in several software projects (which will also be documented here...). 
+Ths project is a '*technology enabler*': a piece of hardware that is then used in several software projects (which will also be documented here on the 'synthesizerwriter' github...). 
 
 *The OWL Pedal*
 
