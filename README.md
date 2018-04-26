@@ -39,16 +39,7 @@ And let's look more closely at that gap by the two input jack sockets...
 
 I reckon that I can fit another socket and a tiny circuit board in there... First, let's disassemble the OWL pedal...
 
-
-
-
-
-
-
-
-
-
-
+![](/images/06-11-disassemble-all.png)
 
 We now need to drill a hole for the next jack socket...
 
