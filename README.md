@@ -1,7 +1,9 @@
 # OWLfoot_mr.github.io
-**Adding a footswitch input to the OWL Pedal**
+***Adding a footswitch input to the OWL Pedal***
 
-Ths project is a 'technology enabler': a piece of hardware that is then used in several software projects (which will also be documented here...). 
+Ths project is a '*technology enabler*': a piece of hardware that is then used in several software projects (which will also be documented here...). 
+
+*The OWL Pedal*
 
 The OWL pedal from Rebel Technology is a guitar stomp box with a difference - you can program the micro controller inside it to run any of over 200 'patches', ranging from the delays and flanging that you would expect, to sound generators and step sequencers.
 
