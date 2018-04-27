@@ -67,7 +67,7 @@ And here's a view of the PCB with the pins marked again:
 
 Finally, we put it all back together again:
 
-![](/images/16-OWL-pedal-with-extra-input-mr.jpg)
+![](/images/16-OWL-pedal-with-extra-input-mr.jpg) 
 
 ...And there's now an extra socket, ready and waiting to be used for tap tempo and anything else that a patch programs it to do.
 
