@@ -17,7 +17,7 @@ Actually, I can't complain, because the OWL pedal is published as Open Source Ha
 
 *Here's what I did.*
 
-The circuit diagram shows that the footswitch just pulls one of the micro controller input pins low when you press it, so all I needed to do was convert a footswitch so that it would do the same. Now there are two different types of footswitch commonly available: one type is a 'Normally Closed' switch, and is found in Roland footswitches, for example; the other type is a 'Normally Open' switch, and this is typically found in (for example) Yamaha footswitches. Now I happened to have a spare Normally Closed (NC) footswitch, so I build my circuit for this type.
+The circuit diagram shows that the footswitch just pulls one of the micro controller input pins low when you press it, so all I needed to do was convert a footswitch so that it would do the same. Now there are two different types of footswitch commonly available: one type is a 'Normally Closed' switch, and is found in Roland footswitches, for example; the other type is a 'Normally Open' switch, and this is typically found in (for example) Yamaha footswitches. Now I happened to have a spare Normally Closed (NC) footswitch, so I built my circuit for this type.
 
 Just connecting my NC footswitch across the existing push-button wouldn't work, because that switch  is Normally Open (NO). So I needed a simple invert circuit, and you can make this using a single transistor. Looking inside the OWL pedal, there's a space that looks like it was made for adding an extra jack socket, and there is room for a tiny circuit board as well, so a single transistor circuit sounded ideal. Hence the circuit looks like this:
 
