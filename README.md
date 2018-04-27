@@ -57,11 +57,11 @@ And connect the three output wires (shown on the right-hand side of the circuit 
 
 ![](/images/15-in-close.jpg)
 
-Here's a diagram based on the Rebel Technology material:
+Here's a diagram based on the Rebel Technology material (note that this board is the other way up in the actual OWL pedal, which is why I included the photos above):
 
 ![](/images/OWL-Footswitch-diagram-1-cropped.png)
 
-And here's a view of the PCB with the pins marked again:
+And here's a view of the actual PCB with the pins marked again (and again upside down):
 
 ![](/images/OWL-Footswitch-diagram-2-cropped.png)
 
