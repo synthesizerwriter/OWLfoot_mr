@@ -61,7 +61,7 @@ Here's a diagram based on the Rebel Technology material (note that this board is
 
 ![](/images/OWL-Footswitch-diagram-1-cropped.png)
 
-And here's a view of the actual PCB with the pins marked again (and again upside down):
+And here's a view of the actual PCB with the pins marked again (and again we see the other side of this PCB in the actual OWL pedal):
 
 ![](/images/OWL-Footswitch-diagram-2-cropped.png)
 
