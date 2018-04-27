@@ -1,4 +1,4 @@
-***Adding a footswitch input to the OWL Pedal***
+*****Adding a footswitch input to the OWL Pedal..*****
 
 Ths project is a '*technology enabler*': a piece of hardware (plus code examples) that is then used in several other software projects (which will also be documented here on the 'synthesizerwriter' github...). 
 
