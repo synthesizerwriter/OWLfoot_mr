@@ -31,12 +31,11 @@ So here's the gap and a spare jack socket:
 
 Let's open up the OWL pedal:
 
-
-
+![](/images/04-inside.jpg)
 
 And let's look more closely at that gap by the two input jack sockets...
 
-
+![](/images/05-space.jpg)
 
 I reckon that I can fit another socket and a tiny circuit board in there... First, let's disassemble the OWL pedal...
 
@@ -44,19 +43,19 @@ I reckon that I can fit another socket and a tiny circuit board in there... Firs
 
 We now need to drill a hole for the next jack socket...
 
-
+![](/images/12-new-hole.jpg)
 
 Then build the circuit on a piece of generic PCB mounted on the jack socket itself...
 
-
+![](/images/13-OWL-pushbutton-input-mr.jpg)
 
 And then put it inside the pedal...
 
-
+![](/images/14-in-place.jpg)
 
 And connect the three output wires (shown on the right-hand side of the circuit diagram above) to the main digital board in the OWL (orange is 3.3 volts, black is ground, and purple is the PE2 connection):
 
-
+![](/images/15-in-close.jpg)
 
 Here's a diagram based on the Rebel Technology material:
 
@@ -68,7 +67,7 @@ And here's a view of the PCB with the pins marked again:
 
 Finally, we put it all back together again:
 
-
+![](/images/16-OWL-pedal-with-extra-input-mr.jpg)
 
 ...And there's now an extra socket, ready and waiting to be used for tap tempo and anything else that a patch programs it to do.
 
